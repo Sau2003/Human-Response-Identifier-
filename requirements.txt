@@ -1,5 +1,5 @@
 streamlit
-torch
+torch==2.0.1
 transformers
 scikit-learn
 joblib
@@ -8,6 +8,7 @@ numpy
 nltk
 fuzzywuzzy
 tqdm
+
 
 
 
