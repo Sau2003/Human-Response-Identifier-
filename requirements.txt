@@ -1,4 +1,5 @@
 streamlit
+transformers
 scikit-learn
 joblib
 pandas
@@ -6,3 +7,4 @@ numpy
 nltk
 fuzzywuzzy
 tqdm
+
