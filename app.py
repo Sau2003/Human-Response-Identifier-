@@ -7,7 +7,7 @@ import torch.nn.functional as F
 # ==============================
 # Config
 # ==============================
-MODEL_DIR = "final_model_distilbert"
+MODEL_DIR = "OneDrive/Desktop/HRI Deploy/final_model_distilbert"
 MAX_LEN = 256
 
 st.set_page_config(
@@ -138,4 +138,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
